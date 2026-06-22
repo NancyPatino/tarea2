@@ -1,5 +1,4 @@
-print ( "Hola primera asignacion")
-print('Hola segunda asignacion')
-lista = {"manzana", "pera", "platano"}
-print(lista)
-
+print ("suma de dos numeros")
+num1 = int(input("Ingrese el primer numero: "))
+num2 = int(input("Ingrese el segundo numero: "))
+print("La suma de", num1, "y", num2, "es:", num1 + num2)    
